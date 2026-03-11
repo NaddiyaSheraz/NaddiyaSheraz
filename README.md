@@ -27,12 +27,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 
----
-
-## 🚀 Featured Projects
-- [Portfolio Website](https://yourportfolio.com) - Responsive personal portfolio built with React & Vite.  
-- [E-commerce App](https://github.com/NaddiyaSheraz/ecommerce) - Full-stack store using React, Node.js & MongoDB.  
-- [Blog Platform](https://github.com/NaddiyaSheraz/blog) - Dynamic blog with authentication & Firebase backend.  
 
 ---
 
