@@ -52,22 +52,6 @@ Frontend Developer | Instructor | Open-Source Contributor
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaddiyaSheraz&theme=radical&show_icons=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaddiyaSheraz&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaddiyaSheraz&theme=radical&layout=compact" />
-</p>
-
----
-
 ## ✍️ Developer Philosophy
 
 > “Clean code is not written by accident. It is designed with intention, clarity, and care.”
