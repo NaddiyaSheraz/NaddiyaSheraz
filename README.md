@@ -88,17 +88,17 @@ Building clean, scalable and user-friendly web applications with modern technolo
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 Frontend Developer passionate about modern UI & UX
-- 🎓 Frontend Development Instructor
-- 🌱 Currently learning Backend Architecture & DevOps
-- 🤝 Open to Freelance, Mentorship & Open Source
-- ☕ Coffee + Music = Productivity
+-  Frontend Developer passionate about modern UI & UX
+-  Frontend Development Instructor
+-  Currently learning Backend Architecture & DevOps
+-  Open to Freelance, Mentorship & Open Source
+-  Coffee + Music = Productivity
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,nestjs,mongodb,firebase,git,github,vscode,figma,vercel,netlify,postman&perline=9" />
@@ -106,35 +106,36 @@ Building clean, scalable and user-friendly web applications with modern technolo
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center">
+## 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NaddiyaSheraz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaddiyaSheraz&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaddiyaSheraz&layout=compact&theme=tokyonight&hide_border=true"/> -->
 
-</p>
+<!-- </p> -->
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
+
+<!-- <p align="center">## 🔥 GitHub Streak
 <img src="https://streak-stats.demolab.com?user=NaddiyaSheraz&theme=tokyonight&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
+
+<!-- <p align="center">## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=NaddiyaSheraz&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+</p> -->
 
 ---
 
-## 📈 Contribution Graph
+##  Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaddiyaSheraz&theme=tokyo-night&hide_border=true"/>
@@ -142,20 +143,21 @@ Building clean, scalable and user-friendly web applications with modern technolo
 
 ---
 
-## 🌟 Featured Projects
+##  What I Do
 
-| Project | Description |
-|----------|-------------|
-| 🌐 Portfolio | Personal Portfolio Website |
-| 🛒 Ecommerce | Full Stack Shopping Platform |
-| 📋 Task Manager | Productivity App |
-| 🎬 Movie App | React Movie Search |
-| 🌦 Weather App | Weather Forecast Application |
-| 🚀 Open Source | Community Contributions |
+ Build responsive and modern web applications
+
+ Develop scalable React & TypeScript projects
+
+ Teach Frontend Development & JavaScript
+
+ Continuously learning Backend & Cloud technologies
+
+ Contribute to Open Source whenever possible
 
 ---
 
-## 💭 Quote
+##  Quote
 
 <p align="center">
 
@@ -165,7 +167,7 @@ Building clean, scalable and user-friendly web applications with modern technolo
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
@@ -190,5 +192,5 @@ Building clean, scalable and user-friendly web applications with modern technolo
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile ⭐
+ Thanks for visiting my profile 
 </p>
