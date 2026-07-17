@@ -177,7 +177,7 @@ Building clean, scalable and user-friendly web applications with modern technolo
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/NaddiyaSheraz">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
