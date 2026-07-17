@@ -110,9 +110,9 @@ Building clean, scalable and user-friendly web applications with modern technolo
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NaddiyaSheraz&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaddiyaSheraz&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -121,7 +121,7 @@ Building clean, scalable and user-friendly web applications with modern technolo
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=NaddiyaSheraz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -129,7 +129,7 @@ Building clean, scalable and user-friendly web applications with modern technolo
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=NaddiyaSheraz&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -137,7 +137,7 @@ Building clean, scalable and user-friendly web applications with modern technolo
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NaddiyaSheraz&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -186,7 +186,7 @@ Building clean, scalable and user-friendly web applications with modern technolo
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=YOUR_USERNAME&icon=5&color=6"/>
+<img src="https://visitcount.itsvg.in/api?id=NaddiyaSheraz&icon=5&color=6"/>
 </p>
 
 <p align="center">
