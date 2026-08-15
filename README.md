@@ -14,15 +14,7 @@
   development and DevOps.
 </p>
 
-<p align="center">
-  <a href="https://github.com/NaddiyaSheraz">
-    <img
-      src="./naddiya_github_coding.gif"
-      alt="Naddiya Sheraz - Coding Animation"
-      width="420"
-    />
-  </a>
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+Developer;Frontend+Development+Instructor;Open+Source+Enthusiast;Currently+Learning+Backend+%26+DevOps" alt="Typing SVG" /> </p>
 
 <!-- <p align="center">
   <a href="https://github.com/NaddiyaSheraz">
