@@ -31,12 +31,6 @@
     />
   </a>
 
-  <!-- Commits -->
-  <img
-    src="https://img.shields.io/github/commit-activity/y/NaddiyaSheraz?label=Commits&style=for-the-badge"
-    alt="GitHub Commits"
-  />
-
 </p>
 
 <!-- <p align="center">
