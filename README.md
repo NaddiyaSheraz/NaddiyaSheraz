@@ -39,13 +39,13 @@
 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
     alt="Female developer coding"
     width="400"
   />
-</p>
+</p> -->
 
 
 <!-- <p align="center">
