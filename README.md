@@ -90,17 +90,7 @@
 ## 📚 Currently Learning
 
 ```text
-Backend Architecture
-      ↓
-Node.js & Express
-      ↓
-REST APIs
-      ↓
-Database Design
-      ↓
-Authentication & Authorization
-      ↓
-DevOps & Cloud Fundamentals
+python
 ```
 
 ---
