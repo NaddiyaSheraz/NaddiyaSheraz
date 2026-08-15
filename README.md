@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/NaddiyaSheraz/NaddiyaSheraz/main/naddiya-tech-stack.gif"
+    src="https://chatgpt.com/c/6a800057-6c40-83ee-8b3a-117819c5ec97"
     alt="Naddiya Sheraz coding animation"
     width="420"
   />
