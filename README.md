@@ -16,8 +16,8 @@
 
 <p align="center">
   <img
-    src="https://chatgpt.com/c/6a800057-6c40-83ee-8b3a-117819c5ec97"
-    alt="Naddiya Sheraz coding animation"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    alt="Developer coding animation"
     width="420"
   />
 </p>
