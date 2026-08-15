@@ -1,9 +1,16 @@
-# Hi 👋, I'm Naddiya Sheraz
+<h1 align="center">Hi 👋, I'm Naddiya Sheraz</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+Developer;Frontend+Development+Instructor;Open+Source+Enthusiast;Currently+Learning+Backend+%26+DevOps" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img
+    src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp"
+    alt="Coding animation"
+    width="420"
+  />
+</p>
 <p align="center">
   <strong>Frontend Developer • Instructor • Software Engineering Student</strong>
 </p>
@@ -141,22 +148,7 @@ I am interested in contributing to open-source projects and collaborating with d
 
 ---
 
-## 📌 Featured Projects
 
-> 🚧 Projects will be added here as I build and publish them.
-
-<!--
-### Project Name
-
-Short description of the project.
-
-**Tech Stack:** React • TypeScript • Node.js • MongoDB
-
-🔗 [Live Demo](YOUR_LINK)
-🔗 [Source Code](YOUR_LINK)
--->
-
----
 
 ## 🤝 Let's Connect
 
