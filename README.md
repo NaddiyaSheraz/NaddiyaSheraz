@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="YOUR_GITHUB_RAW_IMAGE_LINK"
+    src="https://raw.githubusercontent.com/NaddiyaSheraz/NaddiyaSheraz/main/naddiya-tech-stack.gif"
     alt="Naddiya Sheraz coding animation"
     width="420"
   />
