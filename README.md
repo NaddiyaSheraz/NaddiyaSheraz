@@ -115,7 +115,6 @@ DevOps & Cloud Fundamentals
 * 🔌 Explore backend development and API design
 * ☁️ Learn deployment and cloud technologies
 * 🌍 Explore open-source contribution
-
 ---
 
 ## 🎯 My Current Goals
