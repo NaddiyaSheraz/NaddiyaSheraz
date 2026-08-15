@@ -16,10 +16,9 @@
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
-    alt="Coding animation"
+    src="YOUR_GITHUB_RAW_IMAGE_LINK"
+    alt="Naddiya Sheraz coding animation"
     width="420"
-    height="250"
   />
 </p>
 
