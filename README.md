@@ -15,11 +15,13 @@
 </p>
 
 <p align="center">
-   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Developer coding animation"
-    width="420"
-  />
+  <a href="https://github.com/NaddiyaSheraz">
+    <img
+      src="./naddiya_github_coding.gif"
+      alt="Naddiya Sheraz - Coding Animation"
+      width="420"
+    />
+  </a>
 </p>
 
 <!-- <p align="center">
