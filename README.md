@@ -14,6 +14,32 @@
   development and DevOps.
 </p>
 <p align="center">
+
+  <!-- Profile Views -->
+  <a href="https://github.com/NaddiyaSheraz">
+    <img
+      src="https://komarev.com/ghpvc/?username=NaddiyaSheraz&label=Profile%20Views&color=8A2BE2&style=for-the-badge"
+      alt="Profile Views"
+    />
+  </a>
+
+  <!-- GitHub Stars -->
+  <a href="https://github.com/NaddiyaSheraz?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/NaddiyaSheraz?affiliations=OWNER&style=for-the-badge"
+      alt="GitHub Stars"
+    />
+  </a>
+
+  <!-- Commits -->
+  <img
+    src="https://img.shields.io/github/commit-activity/y/NaddiyaSheraz?label=Commits&style=for-the-badge"
+    alt="GitHub Commits"
+  />
+
+</p>
+
+<p align="center">
   <img
     src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
     alt="Female developer coding"
@@ -21,13 +47,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp"
-    alt="Coding animation"
-    width="400"
-  />
-</p>
 
 <!-- <p align="center">
   <a href="https://github.com/NaddiyaSheraz">
