@@ -9,7 +9,7 @@
     src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
     alt="Coding animation"
     width="420"
-    height="200"
+    height="250"
   />
 </p>
 <p align="center">
