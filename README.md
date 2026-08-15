@@ -5,14 +5,6 @@
 </p>
 
 <p align="center">
-  <img
-    src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
-    alt="Coding animation"
-    width="420"
-    height="250"
-  />
-</p>
-<p align="center">
   <strong>Frontend Developer • Instructor • Software Engineering Student</strong>
 </p>
 
@@ -23,13 +15,22 @@
 </p>
 
 <p align="center">
+  <img
+    src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
+    alt="Coding animation"
+    width="420"
+    height="250"
+  />
+</p>
+
+<!-- <p align="center">
   <a href="https://github.com/NaddiyaSheraz">
     <img src="https://img.shields.io/github/followers/NaddiyaSheraz?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
   </a>
   <a href="https://github.com/NaddiyaSheraz?tab=repositories">
     <img src="https://img.shields.io/github/stars/NaddiyaSheraz?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars"/>
   </a>
-</p>
+</p> -->
 
 ---
 
