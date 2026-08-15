@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"
     alt="Coding animation"
     width="420"
   />
