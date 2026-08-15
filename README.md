@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Naddiya Sheraz</h1> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Frontend+Developer;React+%7C+TypeScript+Developer;Frontend+Development+Instructor;Open+Source+Enthusiast;Currently+Learning+Backend+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Frontend+Developer;React+%7C+TypeScript+Developer;Frontend+Development+Instructor;Aspiring+Software+Engineer;Currently+Learning+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>Frontend Developer • Instructor • Software Engineering Student</strong>
+  <strong>Frontend Developer • Instructor • Computer Science </strong>
 </p>
 
 <p align="center">
