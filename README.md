@@ -13,11 +13,10 @@
   and continuously improve my skills in software engineering, backend
   development and DevOps.
 </p>
-
 <p align="center">
   <img
-    src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"
-    alt="Developer coding"
+    src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"
+    alt="Developer animation"
     width="420"
   />
 </p>
