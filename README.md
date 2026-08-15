@@ -15,9 +15,9 @@
 </p>
 <p align="center">
   <img
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-    alt="Coding animation"
-    width="420"
+    src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"
+    alt="Female developer coding"
+    width="400"
   />
 </p>
 
