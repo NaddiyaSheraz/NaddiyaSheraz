@@ -16,6 +16,14 @@
 
 <p align="center"> <a href="https://github.com/NaddiyaSheraz"> <img src="https://img.shields.io/github/followers/NaddiyaSheraz?label=Followers&style=for-the-badge" alt="GitHub Followers"/> </a> <a href="https://github.com/NaddiyaSheraz?tab=repositories"> <img src="https://img.shields.io/github/stars/NaddiyaSheraz?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars"/> </a> </p>
 
+<p align="center">
+  <img
+    src="https://i.giphy.com/L1R1tvI9svkIWwpVYr.webp"
+    alt="Coding animation"
+    width="400"
+  />
+</p>
+
 <!-- <p align="center">
   <a href="https://github.com/NaddiyaSheraz">
     <img src="https://img.shields.io/github/followers/NaddiyaSheraz?label=Followers&style=for-the-badge" alt="GitHub Followers"/>
