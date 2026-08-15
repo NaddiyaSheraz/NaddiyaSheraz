@@ -14,7 +14,13 @@
   development and DevOps.
 </p>
 
-<p align="center"> <a href="https://github.com/NaddiyaSheraz"> <img src="https://img.shields.io/github/followers/NaddiyaSheraz?label=Followers&style=for-the-badge" alt="GitHub Followers"/> </a> <a href="https://github.com/NaddiyaSheraz?tab=repositories"> <img src="https://img.shields.io/github/stars/NaddiyaSheraz?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars"/> </a> </p>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif"
+    alt="Developer coding"
+    width="420"
+  />
+</p>
 
 <p align="center">
   <img
