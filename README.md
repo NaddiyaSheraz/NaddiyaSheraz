@@ -147,13 +147,6 @@ python
 ---
 
 ## 📊 GitHub Activity
-
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaddiyaSheraz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-</p> -->
-
-
-
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaddiyaSheraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaddiyaSheraz&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
