@@ -148,8 +148,11 @@ python
 
 ## 📊 GitHub Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaddiyaSheraz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</p> -->
+<p align="center">
+  <img src="https://YOUR-APP.vercel.app/graph?username=NaddiyaSheraz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 <!-- <p align="center">
