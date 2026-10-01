@@ -151,9 +151,18 @@ python
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaddiyaSheraz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </p> -->
+
+## 📊 GitHub Commit Activity
+
 <p align="center">
-  <img src="https://YOUR-APP.vercel.app/graph?username=NaddiyaSheraz&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+  <img
+    src="./assets/commit-graph.svg"
+    alt="GitHub Commit Activity"
+    width="900"
+  />
 </p>
+
+
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NaddiyaSheraz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
