@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naddiya Sheraz</h1> 
+<h1 align="center"><img width="10%" height="10%" align="left" alt="Github" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/wave.gif" />Hi, I'm Naddiya Sheraz</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Graduate;Frontend+Developer;React+%7C+TypeScript+Developer;Frontend+Development+Instructor;Aspiring+Software+Engineer;Currently+Learning+Python" alt="Typing SVG" />
