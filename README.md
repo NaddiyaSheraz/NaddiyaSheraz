@@ -82,14 +82,14 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 Software Engineering student
-* 💻 Frontend Developer focused on **React & TypeScript**
-* 👩‍🏫 Frontend Development Instructor
-* 🌱 Currently learning **Backend Architecture & DevOps**
-* 🔭 Interested in **Full-Stack Development and Software Engineering**
-* 🌍 Interested in **Open Source and collaborative development**
-* 🤝 Open to learning, collaboration, mentorship and open-source opportunities
-* ☕ Coffee + 🎧 Music = Productivity
+- 🎓 Computer Science Graduate — Benazir Bhutto Shaheed University Lyari, Karachi.
+- 💼 **1 Year of Professional Experience** as a Lead Trainer at **Saylani IT**.
+- 👩‍🏫 Experienced in mentoring and training students in Web Development, including international students.
+- 💻 Skilled in Frontend Development using **HTML, CSS, JavaScript, React.js, and Tailwind CSS**.
+- ⚙️ Experienced with Backend Technologies including **Node.js, Express.js, MongoDB, Firebase, and Supabase**.
+- 🎨 Focused on building modern, responsive, and accessible user interfaces.
+- 🚀 Continuously exploring Full Stack Development, Software Architecture, and emerging technologies.
+- 🌍 Interested in international collaboration, open-source contributions, and innovative projects.
 
 ---
 
