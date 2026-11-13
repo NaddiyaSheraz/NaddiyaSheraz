@@ -75,42 +75,32 @@
 
 ---
 
-## 🛠️ Technical Skills
 
-### 💻 Languages
+## 🛠️ Tech Stack & Skills
 
+**Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,materialui" />
 </p>
 
-### 🎨 Frontend Development
-
+**Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### ⚙️ Backend & APIs
-
+**Database & Backend Services**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
 </p>
 
-### 🗄️ Databases & Services
-
+**Animation & Design**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=gsap,figma" />
 </p>
 
-### 🔧 Tools & Development
-
+**Tools & Deployment**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
-### 🎨 Design & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </p>
 
 ---
