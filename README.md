@@ -84,7 +84,7 @@
 
 - 🎓 Computer Science Graduate — Benazir Bhutto Shaheed University Lyari, Karachi.
 - 💼 **1 Year of Professional Experience** as a Lead Trainer at **Saylani IT**.
-- 👩‍🏫 Experienced in mentoring and training students in Web Development, including international students.
+- 👩‍🏫 Training Bahria College students in Web Development.
 - 💻 Skilled in Frontend Development using **HTML, CSS, JavaScript, React.js, and Tailwind CSS**.
 - ⚙️ Experienced with Backend Technologies including **Node.js, Express.js, MongoDB, Firebase, and Supabase**.
 - 🎨 Focused on building modern, responsive, and accessible user interfaces.
