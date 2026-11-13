@@ -121,6 +121,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </p>
 
+**Game Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=robloxstudio" />
+</p>
+
 ---
 
 ## 📚 Currently Learning
